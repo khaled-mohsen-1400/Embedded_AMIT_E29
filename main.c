@@ -5,8 +5,5 @@ void main(void)
 	printf("Hello world");
 	printf("Hello khaled");
 	
-	printf("Hello world");
-	printf("Hello khaled");
-	
 	
 }
